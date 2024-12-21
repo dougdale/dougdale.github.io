@@ -20,8 +20,14 @@
 
 title: Wrinkled Face and Brand New Heart
 #email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:" 
-  "As you enter this life\nI pray you depart\nWith a wrinkled face\nAnd a brand new heart\n- U2\n\nThis site was created primarily to share Christmas letter. But who knows, maybe sometime I'll have other things to say!"
+description: | 
+  As you enter this life\
+  I pray you depart\
+  With a wrinkled face\
+  And a brand new heart\
+  - U2\
+  \
+  This site was created primarily to share Christmas letter. But who knows, maybe sometime I'll have other things to say!"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  dougdale
